@@ -1,8 +1,7 @@
-// Daniel Shiffman
-// http://codingtra.in
-// http://patreon.com/codingtrain
-// Code for: https://youtu.be/CKeyIbT3vXI
+//3d particle system 
+// could be great fun
 
+// Dependary doesn't exist
 import peasy.*;
 
 ArrayList<Firework> fireworks;

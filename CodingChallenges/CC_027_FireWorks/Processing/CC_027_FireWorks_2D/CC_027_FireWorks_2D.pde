@@ -1,7 +1,5 @@
-// Daniel Shiffman
-// http://codingtra.in
-// http://patreon.com/codingtrain
-// Code for: 
+//great work coding train
+//I apreciate it really
 
 ArrayList<Firework> fireworks;
 

@@ -1,10 +1,4 @@
-// Daniel Shiffman
-// http://codingtra.in
-// http://patreon.com/codingtrain
 
-// Approximating Pi
-// https://youtu.be/5cNnf_7e92Q
-// https://thecodingtrain.com/CodingChallenges/095-approximating-pi.html
 
 const r = 200;
 
