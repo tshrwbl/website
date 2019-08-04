@@ -1,5 +1,5 @@
 //3d particle system 
-// could be great fun
+// could be great fun 
 
 // Dependary doesn't exist
 import peasy.*;
