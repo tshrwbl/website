@@ -22,7 +22,7 @@ void setup() {
 
 void draw() {
 
-
+//delete later
   if (random(1) < 0.2) {
     fireworks.add(new Firework());
   }
