@@ -1,4 +1,3 @@
-// Daniel Shiffman
 // http://codingtra.in
 // http://patreon.com/codingtrain
 // Code for: https://youtu.be/CKeyIbT3vXI
@@ -23,7 +22,7 @@ void setup() {
 
 void draw() {
 
-
+//delete later
   if (random(1) < 0.2) {
     fireworks.add(new Firework());
   }
