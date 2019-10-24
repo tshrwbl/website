@@ -12,7 +12,7 @@ float xoff = 0;
 float yoff = 10000;
 
 void setup() {
-  size(400, 400);
+  size(1000, 1000);
   walls = new Boundary[5+4];
   for (int i = 0; i < walls.length; i++) {
     float x1 = random(width);

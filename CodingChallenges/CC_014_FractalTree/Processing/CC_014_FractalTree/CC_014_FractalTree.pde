@@ -10,14 +10,14 @@ float branch_ratio = 0.67;
 
 
 void setup(){
-  size(400,400);
+  size(1000,1000);
 }
 
 void draw(){
   background(51);
   stroke(255);
   translate(width/2, height);
-  branch(100);
+  branch(300);
 }
 
 void branch(float len){
